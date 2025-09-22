@@ -1,0 +1,20 @@
+---
+alwaysApply: true
+---
+
+Projenin adı: Bitalih Dashboard
+Projenin amacı: Bitalih sitesinden at yarışı verilerini çeker ve atların isimlerini ile sabit oranlarını (fixedOdd) ekrana yazdırır.
+Projenin teknolojileri: Next.js, Tailwind CSS, TypeScript, React, Node.js
+Projede componentleri /components klasöründe tutacağız.
+Projede sayfaları /app klasöründe tutacağız.
+Projede assetsı /public klasöründe tutacağız.
+Projede stylesi /styles klasöründe tutacağız.
+Projede utilsi /utils klasöründe tutacağız.
+Projede typesi /types klasöründe tutacağız.
+Projede hooksi /hooks klasöründe tutacağız.
+Projede servicesi /services klasöründe tutacağız.
+Projede constantsi /constants klasöründe tutacağız.
+Projede build almana gerek yok.
+Database olarak Prisma kullanacağız.
+Auth olarak Next-Auth kullanacağız.
+UI Framework olarak HeroUI kullanacağız.
