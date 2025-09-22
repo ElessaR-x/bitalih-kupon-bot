@@ -34,6 +34,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Python files (for Heroku deployment)
+*.py
+README_*.md
+
 pnpm-lock.yaml
 yarn.lock
 package-lock.json
